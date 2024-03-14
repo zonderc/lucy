@@ -1,0 +1,23 @@
+body * {
+    font-size: 20px;
+    font-family: Consolas;
+}
+
+h1 {
+    color: FireBrick !important;
+    font-weight: bold !important;
+}
+
+h2 {
+    color: RoyalBlue !important;
+    font-weight: bold !important;
+}
+
+h3 {
+    font-weight: bold !important;
+}
+
+
+img {
+    border: solid 2px black;
+}
